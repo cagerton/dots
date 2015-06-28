@@ -1,0 +1,9 @@
+/.idea
+
+*.py[cod]
+*.swp
+*.scssc
+*.DS_Store
+*.pid
+*.rdb
+*.*~
